@@ -1,0 +1,2 @@
+# Enum vs union
+
