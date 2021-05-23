@@ -29,5 +29,5 @@
 
 ## 추천 사이트 <a id="recommend-site"></a>
 
-* [프론트엔드 모음](recommend-site/undefined.md)
+* [기술 블로그 모음](recommend-site/undefined.md)
 
