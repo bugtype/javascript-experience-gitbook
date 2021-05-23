@@ -10,6 +10,7 @@
 
 * [커스텀 체크박스 구현](react/untitled.md)
 * [Yarn link 관련 에러 \( react invalid hook call\)](react/yarn-link-react-invalid-hook-call.md)
+* [Interfacee vs Type](react/interfacee-vs-type.md)
 
 ## Typescript
 
