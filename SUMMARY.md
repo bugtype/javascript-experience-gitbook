@@ -13,6 +13,8 @@
 ## Typescript
 
 * [Enum vs union](typescript/enum-vs-union.md)
+* [Array 체크](typescript/array.md)
+* [XOR 타입](typescript/xor.md)
 
 ## Template 모음
 
