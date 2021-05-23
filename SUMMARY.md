@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [첫 장...](README.md)
 
 ## css
 
