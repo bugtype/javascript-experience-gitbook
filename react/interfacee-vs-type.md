@@ -14,6 +14,7 @@ interface vs type
 |  | 객체 리터럴 타입을 보여준다 |
 |  | extend, implements가 될 수 없다. |
 | merged declaration |  |
+|  | 재귀적으로 가능 |
 
 공식문서에는 최대한 interface를 쓰라고 한다.
 
