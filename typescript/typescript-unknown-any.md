@@ -4,9 +4,9 @@
 
 
 
-|  |  |
+| Type |  설명 |
 | :--- | :--- |
+| any | ? 타입 |
 | unknown | 모든 타입의 superset |
-| any | 모든 타입의 superset |
 | never | 모든 타입의 subset \( 그러므로, 어떤 타입도 never타입이 될 수 없다. \) |
 
