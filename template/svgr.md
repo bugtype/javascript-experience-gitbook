@@ -10,7 +10,7 @@
 ```text
 #!bin/bash
 
-# Anchor by bugtytpe(이재현)
+# Anchor by bugtytpe
 
 iconPath='./src/components/icons/'
 
