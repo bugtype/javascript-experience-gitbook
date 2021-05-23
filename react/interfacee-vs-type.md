@@ -8,3 +8,14 @@ interface vs type
 
 
 
+| Interface | Type |
+| :--- | :--- |
+| 새로운 이름 |  |
+|  | 객체 리터럴 타입을 보여준다 |
+|  | extend, implements가 될 수 없다. |
+| merged declaration |  |
+
+공식문서에는 최대한 interface를 쓰라고 한다.
+
+interface를 사용할 수 없는 상태 **유니온 혹은 튜플 에는 Type을 쓰도록 한다.**
+
