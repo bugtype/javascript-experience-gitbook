@@ -42,3 +42,7 @@
 
 * [기술 블로그 모음](recommend-site/undefined.md)
 
+## 최적화 <a id="undefined-1"></a>
+
+* [image 리사이징](undefined-1/image.md)
+
