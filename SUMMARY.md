@@ -28,6 +28,7 @@
 * [Array 체크](typescript/array.md)
 * [XOR 타입](typescript/xor.md)
 * [unknown, any, never 차이](typescript/typescript-unknown-any.md)
+* [declare](typescript/declare.md)
 
 ## Template 모음
 
