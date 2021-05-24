@@ -7,7 +7,7 @@
 ```typescript
 
 const instance = axios.create({
-  baseURL: process.env.BASE_API,
+  baseURL: ''
 });
 
 instance.interceptors.request.use(res => {
@@ -24,7 +24,6 @@ instance.interceptors.response.use(
     // TODO
     return res;
   },
-  err => Log.dev(`HttpClient 요청 실패 - ${err}`)
 );
 
 const HttpClient = {
