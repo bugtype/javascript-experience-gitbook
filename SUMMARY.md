@@ -15,6 +15,7 @@
 ## 🥎react
 
 * [커스텀 체크박스 구현](react/checkbox.md)
+* [target vs currentTarget](react/target-vs-currenttarget.md)
 * [Yarn link 관련 에러 \( react invalid hook call\)](react/yarn-link-react-invalid-hook-call.md)
 * [JSX.Element vs ReactNode vs ReactElement](react/jsx.element-vs-reactnode-vs-reactelement.md)
 * [Interfacee vs Type](react/interfacee-vs-type.md)
