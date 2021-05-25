@@ -37,8 +37,8 @@
 
 ## 🛠config 관련
 
-* [tsconfig](config/tsconfig.md)
 * [package.json](config/package.json.md)
+* [tsconfig](config/tsconfig.md)
 
 ## Template 모음
 
