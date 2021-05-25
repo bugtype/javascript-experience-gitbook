@@ -24,12 +24,6 @@
 
 
 
-
-
-
-
-
-
 참고
 
 * [https://www.youtube.com/watch?v=Y1a-X-P6n7Y](https://www.youtube.com/watch?v=Y1a-X-P6n7Y)
