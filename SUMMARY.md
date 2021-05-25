@@ -38,6 +38,7 @@
 ## 🛠config 관련
 
 * [package.json](config/package.json.md)
+* [webpack.config.js](config/webpack.config.js.md)
 * [tsconfig](config/tsconfig.md)
 
 ## Template 모음
