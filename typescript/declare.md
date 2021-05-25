@@ -1,4 +1,4 @@
-# declare
+# declare global\(env\)
 
 
 
@@ -18,4 +18,6 @@ declare global {
 export {};
 
 ```
+
+
 
