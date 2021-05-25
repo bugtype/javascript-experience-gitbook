@@ -7,3 +7,5 @@
   
 [https://media.example.com/images/123.jpg](https://media.example.com/images/123.jpg) \(CF\) -&gt; [https://api-id.execute-api.amazonaws.com/stage/images/123.jpg](https://api-id.execute-api.amazonaws.com/stage/images/123.jpg) \(API G/W\) -&gt; Lambda Invocation
 
+* [https://aws.amazon.com/ko/blogs/compute/resize-images-on-the-fly-with-amazon-s3-aws-lambda-and-amazon-api-gateway/](https://aws.amazon.com/ko/blogs/compute/resize-images-on-the-fly-with-amazon-s3-aws-lambda-and-amazon-api-gateway/)
+
