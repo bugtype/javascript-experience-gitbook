@@ -27,13 +27,18 @@
 * [JSX.Element vs ReactNode vs ReactElement](react/jsx.element-vs-reactnode-vs-reactelement.md)
 * [Interfacee vs Type](react/interfacee-vs-type.md)
 
-## Typescript
+## 🚀Typescript
 
 * [Enum vs union](typescript/enum-vs-union.md)
 * [Array 체크](typescript/array.md)
 * [XOR 타입](typescript/xor.md)
 * [unknown, any, never 차이](typescript/typescript-unknown-any.md)
 * [declare global\(env\)](typescript/declare.md)
+
+## 🛠config 관련
+
+* [tsconfig](config/tsconfig.md)
+* [package.json](config/package.json.md)
 
 ## Template 모음
 
