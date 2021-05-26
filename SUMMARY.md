@@ -5,7 +5,7 @@
 ## 🎨html/css <a id="css"></a>
 
 * [Styled vs Scss](css/styled-vs-scss.md)
-* [HTML5](css/html5/README.md)
+* [HTML5/input](css/html5/README.md)
   * [label](css/html5/untitled.md)
   * [meter](css/html5/meter.md)
   * [datalist](css/html5/datalist.md)
