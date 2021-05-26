@@ -2,6 +2,8 @@
 
 
 
+예\) ReactNative에서도 사용할 예정 및 컴포넌트들이 격리 되어야하는가? **styled-component**
+
 
 
 styled-component
