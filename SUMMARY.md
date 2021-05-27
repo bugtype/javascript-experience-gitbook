@@ -56,6 +56,7 @@
 * [next.config.js](config/next.config.js.md)
 * [webpack.config.js](config/webpack.config.js.md)
 * [tsconfig](config/tsconfig.md)
+* [eslint.json](config/eslint.json.md)
 
 ## Template 모음
 
