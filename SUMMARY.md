@@ -45,11 +45,6 @@
 * [unknown, any, never 차이](typescript/typescript-unknown-any.md)
 * [declare global\(env\)](typescript/declare.md)
 
-## 🔨디버깅 <a id="debugging"></a>
-
-* [Chrome](debugging/chrome.md)
-* [vs-code](debugging/vs-code.md)
-
 ## 🛠config 관련
 
 * [package.json](config/package.json.md)
@@ -57,6 +52,11 @@
 * [webpack.config.js](config/webpack.config.js.md)
 * [tsconfig](config/tsconfig.md)
 * [eslint.json](config/eslint.json.md)
+
+## 🔨디버깅 <a id="debugging"></a>
+
+* [Chrome](debugging/chrome.md)
+* [vs-code](debugging/vs-code.md)
 
 ## Template 모음
 
