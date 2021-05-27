@@ -2,11 +2,11 @@
 
 * [첫 장...](README.md)
 
-## 🛸Tech
+## 💻 Tech
 
 * [oAuth](tech/oauth.md)
 
-## 🎨html/css <a id="css"></a>
+## 🎨 html/css <a id="css"></a>
 
 * [Styled vs Scss](css/styled-vs-scss.md)
 * [HTML5/input](css/html5/README.md)
@@ -23,12 +23,12 @@
 * [query vs useState](state/query-vs-usestate.md)
 * [Recoil](state/recoil.md)
 
-## 🏄‍♂️UI/UX
+## 🏄‍♂️ UI/UX
 
 * [서술](ui-ux/undefined.md)
 * [InfiniteQuery](ui-ux/infinitequery.md)
 
-## 🥎react
+## 🥎 react
 
 * [react-use](react/react-use.md)
 * [커스텀 체크박스 구현](react/checkbox.md)
@@ -37,7 +37,7 @@
 * [JSX.Element vs ReactNode vs ReactElement](react/jsx.element-vs-reactnode-vs-reactelement.md)
 * [Interfacee vs Type](react/interfacee-vs-type.md)
 
-## 🚀Typescript
+## 🚀 Typescript
 
 * [Enum vs union](typescript/enum-vs-union.md)
 * [Array 체크](typescript/array.md)
@@ -45,7 +45,7 @@
 * [unknown, any, never 차이](typescript/typescript-unknown-any.md)
 * [declare global\(env\)](typescript/declare.md)
 
-## 🛠config 관련
+## 🛠 config 관련
 
 * [package.json](config/package.json.md)
 * [next.config.js](config/next.config.js.md)
@@ -53,7 +53,7 @@
 * [tsconfig](config/tsconfig.md)
 * [eslint.json](config/eslint.json.md)
 
-## 🔨디버깅 <a id="debugging"></a>
+## 🔨 디버깅 <a id="debugging"></a>
 
 * [Chrome](debugging/chrome.md)
 * [vs-code](debugging/vs-code.md)
