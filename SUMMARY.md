@@ -2,6 +2,10 @@
 
 * [첫 장...](README.md)
 
+## 🛸Tech
+
+* [oAuth](tech/oauth.md)
+
 ## 🎨html/css <a id="css"></a>
 
 * [Styled vs Scss](css/styled-vs-scss.md)
@@ -26,6 +30,7 @@
 
 ## 🥎react
 
+* [react-use](react/react-use.md)
 * [커스텀 체크박스 구현](react/checkbox.md)
 * [target vs currentTarget](react/target-vs-currenttarget.md)
 * [Yarn link 관련 에러 \( react invalid hook call\)](react/yarn-link-react-invalid-hook-call.md)
