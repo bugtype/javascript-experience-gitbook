@@ -41,6 +41,10 @@
 * [JSX.Element vs ReactNode vs ReactElement](react/jsx.element-vs-reactnode-vs-reactelement.md)
 * [Interfacee vs Type](react/interfacee-vs-type.md)
 
+## 🕹 Javascript
+
+* [pipe, compose](javascript/pipe-compose.md)
+
 ## 🚀 Typescript
 
 * [Enum vs union](typescript/enum-vs-union.md)
