@@ -47,6 +47,7 @@
 
 ## 🛠 config 관련
 
+* [yarn2\(berry\) vs yarn vs npm](config/yarn2-berry-vs-yarn-vs-npm.md)
 * [package.json](config/package.json.md)
 * [next.config.js](config/next.config.js.md)
 * [webpack.config.js](config/webpack.config.js.md)
