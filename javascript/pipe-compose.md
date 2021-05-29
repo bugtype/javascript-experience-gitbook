@@ -2,7 +2,7 @@
 
 
 
-
+그냥 lodash or underscore 써야지...
 
 ```typescript
 const pipe = <A, B>(fn: (a: A) => B) => {
