@@ -71,6 +71,7 @@
 ## Template 모음
 
 * [Svgr 스크립트](template/svgr.md)
+* [\[TS\] Type, Interface](template/ts-type-interface.md)
 * [HttpClient](template/httpclient.md)
 
 ## 기타
