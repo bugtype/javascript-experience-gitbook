@@ -10,6 +10,8 @@ description: 웹접근성 지침
 
 {% embed url="https://aoa.gitbook.io/skymimo/aoa-2019/2019-aria" %}
 
+{% embed url="https://github.com/lezhin/accessibility" %}
+
 \*\*\*\*
 
 {% embed url="https://www.youtube.com/watch?v=WIoSq7sQKLU&ab\_channel=AOA11YAOA11Y" %}
