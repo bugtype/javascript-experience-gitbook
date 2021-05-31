@@ -16,9 +16,7 @@ description: 웹접근성 지침
 
 {% embed url="https://www.youtube.com/watch?v=WIoSq7sQKLU&ab\_channel=AOA11YAOA11Y" %}
 
-
-
-\*\*\*\*
+eslint - [https://github.com/jsx-eslint/eslint-plugin-jsx-a11y](https://github.com/jsx-eslint/eslint-plugin-jsx-a11y)
 
 \*\*\*\*
 
