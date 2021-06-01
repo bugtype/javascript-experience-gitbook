@@ -10,13 +10,17 @@ const instance = axios.create({
   baseURL: ''
 });
 
-instance.interceptors.request.use(res => {
-  res.headers = {
+instance.interceptors.request.use(req => {
+  req.headers = {
       // TODO
     authorization: ''
     'Content-Type': 'application/json',
   };
-  return res;
+  // array 처리, 
+//  paramsSerializer: function (params) {
+//    return Qs.stringify(params, {arrayFormat: 'brackets'})
+//  },
+  return req;
 });
 
 instance.interceptors.response.use(
