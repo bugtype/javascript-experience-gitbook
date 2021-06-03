@@ -12,6 +12,10 @@ description: 웹접근성 지침
 
 {% embed url="https://github.com/lezhin/accessibility" %}
 
+{% embed url="https://happycording.tistory.com/entry/HTML-Role-%EC%99%9C-%EC%82%AC%EC%9A%A9%ED%95%B4%EC%95%BC%EB%A7%8C-%ED%95%98%EB%8A%94%EA%B0%80" %}
+
+\*\*\*\*
+
 \*\*\*\*
 
 {% embed url="https://www.youtube.com/watch?v=WIoSq7sQKLU&ab\_channel=AOA11YAOA11Y" %}
