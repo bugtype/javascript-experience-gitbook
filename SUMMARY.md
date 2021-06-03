@@ -5,6 +5,7 @@
 ## 💻 Tech
 
 * [oAuth](tech/oauth.md)
+* [rxjs](tech/rxjs.md)
 
 ## 🎨 html/css <a id="css"></a>
 
