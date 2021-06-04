@@ -2,6 +2,10 @@
 
 * [첫 장...](README.md)
 
+## 사이트 분석 <a id="undefined-3"></a>
+
+* [네이버](undefined-3/undefined.md)
+
 ## 💻 Tech
 
 * [oAuth](tech/oauth.md)
@@ -72,7 +76,7 @@
 
 ## 🔨 디버깅 <a id="debugging"></a>
 
-* [Chrome](debugging/chrome.md)
+* [Chrome - performance](debugging/chrome.md)
 * [vs-code](debugging/vs-code.md)
 
 ## Template 모음
