@@ -2,9 +2,9 @@
 
 * [첫 장...](README.md)
 
-## 사이트 분석 <a id="undefined-3"></a>
+## 🕹 사이트 분석 <a id="site-analysis"></a>
 
-* [네이버](undefined-3/undefined.md)
+* [네이버](site-analysis/undefined.md)
 
 ## 💻 Tech
 
