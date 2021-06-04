@@ -9,6 +9,7 @@
 
 ## 🎨 html/css <a id="css"></a>
 
+* [Image](css/image.md)
 * [Styled vs Scss](css/styled-vs-scss.md)
 * [css snippet](css/css-snippet.md)
 * [HTML5/input](css/html5/README.md)
