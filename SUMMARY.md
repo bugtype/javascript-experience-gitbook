@@ -17,6 +17,7 @@
 * [Styled vs Scss](css/styled-vs-scss.md)
 * [css snippet](css/css-snippet.md)
 * [HTML5/input](css/html5/README.md)
+  * [HTML5 Video Events and API](css/html5/html5-video-events-and-api.md)
   * [label](css/html5/untitled.md)
   * [meter](css/html5/meter.md)
   * [datalist](css/html5/datalist.md)
