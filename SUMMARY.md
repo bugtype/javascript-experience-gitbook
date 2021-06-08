@@ -85,7 +85,7 @@
 
 ## 🕹 사이트 분석 <a id="site-analysis"></a>
 
-* [네이버](site-analysis/undefined.md)
+* [네이버](site-analysis/naver.md)
 
 ## 기타
 

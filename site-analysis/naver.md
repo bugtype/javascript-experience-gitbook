@@ -30,5 +30,23 @@ III. pragama - 과거 HTTP1.0 cache 설정
 
 IV. referrer-policy [여기](https://developer.mozilla.org/en-US/docs/Web/HTTP/Headers/Referrer-Policy)
 
+V. strict-transport-security [여기](https://developer.mozilla.org/ko/docs/Web/HTTP/Headers/Strict-Transport-Security)
+
+* HTTP 대신 HTTPS만을 사용하여 통신해야한다고 웹사이트가 브라우저에 알리는 보안 기능
+
+VI. x-frame-options [여기](https://developer.mozilla.org/ko/docs/Web/HTTP/Headers/X-Frame-Options)
+
+* Deny - 어떠한 사이트에서도 frame 상에서 보여질 수 없습니다. \(frame, iframe, object\)
+  * **클릭재킹** 을 막기위해서 사용.
+
+VII. X-XSS-Protection [여기](https://developer.mozilla.org/ko/docs/Web/HTTP/Headers/X-XSS-Protection)
+
+* x-xss-protection: 1; mode=block
+  * XSS 공격을 감지하면 페이지로드를 차단합니다.
+
+
+
+
+
 
 
