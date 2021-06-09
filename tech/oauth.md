@@ -10,3 +10,9 @@
 
 
 
+
+
+{% embed url="https://cloud.google.com/apigee/docs/api-platform/reference/policies/oauth-http-status-code-reference?hl=ko" %}
+
+
+
