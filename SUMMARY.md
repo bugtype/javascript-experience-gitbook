@@ -6,6 +6,7 @@
 
 * [oAuth](tech/oauth.md)
 * [rxjs](tech/rxjs.md)
+* [Deep React](tech/deep-react.md)
 * [Deep Javascript](tech/deep-javascript.md)
 
 ## 🎨 html/css <a id="css"></a>
