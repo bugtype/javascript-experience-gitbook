@@ -43,3 +43,10 @@ function shallowEqual(objA: mixed, objB: mixed): boolean {
 }
 ```
 
+
+
+1. 같은 object인지 확인한다.
+2. object가 아닌지 확인
+3. 가지고 있는 key의 갯수가 같은지 확인
+4. A가 가진 key를 가진지 체크, 같은 같은 property인지 체크
+
