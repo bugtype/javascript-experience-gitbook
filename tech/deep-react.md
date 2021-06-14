@@ -4,6 +4,8 @@
 별도의 Gitbook으로 옮길예정
 {% endhint %}
 
+### 
+
 #### I. shallow equal 코드
 
 ```javascript
@@ -49,4 +51,21 @@ function shallowEqual(objA: mixed, objB: mixed): boolean {
 2. object가 아닌지 확인
 3. 가지고 있는 key의 갯수가 같은지 확인
 4. A가 가진 key를 가진지 체크, 같은 같은 property인지 체크
+
+---
+
+#### II. React 달라진점
+
+* React 17 \([Naver D2](https://d2.naver.com/helloworld/7226235)\)
+  * 이벤트 위임 방식 변경
+  * JSX Transform
+  * Event Pooling 제거
+  * Native Component Stacks
+* React 18 \([React blog](https://reactjs.org/blog/2021/06/08/the-plan-for-react-18.html)\)
+  * Batch - [https://github.com/reactwg/react-18/discussions/21](https://github.com/reactwg/react-18/discussions/21)
+  * startTransition - [https://github.com/reactwg/react-18/discussions/41](https://github.com/reactwg/react-18/discussions/41)
+
+
+
+
 
