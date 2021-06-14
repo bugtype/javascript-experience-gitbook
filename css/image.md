@@ -4,3 +4,9 @@
 
 
 
+레티나 대응
+
+* [https://stackoverflow.com/a/34695900](https://stackoverflow.com/a/34695900)
+
+
+
