@@ -4,5 +4,7 @@
 
 {% embed url="https://toss.tech/" %}
 
+{% embed url="https://tech.kakao.com/blog/" %}
+
 
 
